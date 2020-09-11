@@ -258,11 +258,11 @@
         },
         "distributed": {
             "hashes": [
-                "sha256:4ebd68f9c15bff19e8b2a2b16ef8fd6640f5fcc3fcf65c14fbe88501d2637530",
-                "sha256:7ef2a90affb49879d779272ca39796d4fe53ef6fbbc99b5e6f51acc20a3bde9b"
+                "sha256:1278ba2d4881cdfc43533e7f37da33e4b0448ce038917513efd68b6d9446a98e",
+                "sha256:d68f293789cb1ef0f990ae4efc3bb755fd987590a2b4d69a6eb85effff7a2f93"
             ],
             "index": "pypi",
-            "version": "==2.22.0"
+            "version": "==2.24.0"
         },
         "docutils": {
             "hashes": [
