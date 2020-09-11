@@ -950,11 +950,11 @@
         },
         "s3fs": {
             "hashes": [
-                "sha256:2ca5de8dc18ad7ad350c0bd01aef0406aa5d0fff78a561f0f710f9d9858abdd0",
-                "sha256:91c1dfb45e5217bd441a7a560946fe865ced6225ff7eb0fb459fe6e601a95ed3"
+                "sha256:6c82618f237148c1e77289f3c27884a61be683a4b9d8e9029b3c73d7ba1451f6",
+                "sha256:d187f21b42d81ed60e89f17e7680cf0ce57adc57e6ccc371923d146b0e904cb4"
             ],
             "index": "pypi",
-            "version": "==0.4.2"
+            "version": "==0.5.0"
         },
         "scikit-image": {
             "hashes": [
