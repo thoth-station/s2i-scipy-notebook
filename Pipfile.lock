@@ -265,11 +265,11 @@
         },
         "distributed": {
             "hashes": [
-                "sha256:1278ba2d4881cdfc43533e7f37da33e4b0448ce038917513efd68b6d9446a98e",
-                "sha256:d68f293789cb1ef0f990ae4efc3bb755fd987590a2b4d69a6eb85effff7a2f93"
+                "sha256:2b3a6c9d82dcbe4b8757be2fcb3fbca731a57592e801caf06407a2a76cae2217",
+                "sha256:e9855657b04fcb7b106f0f55487f34973f0cd50ab2cfc7259b397713d62ae19a"
             ],
             "index": "pypi",
-            "version": "==2.24.0"
+            "version": "==2.25.0"
         },
         "docutils": {
             "hashes": [
