@@ -4,5 +4,6 @@ approvers:
   - goern
   - harshad16
   - pacospace
+reviewers:
   - vpavlin
-reviewers: []
+  - LaVLaS
