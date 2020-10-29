@@ -1,8 +1,8 @@
-# S2I Scipy Notebook
+# S2I SciPy Notebook
 
 Custom Notebook built with Thoth s2i-minimal-notebook.
 
-This custom notebook contains [Scipy](https://www.scipy.org/) related packages install with minimal notebook for Data Science usage. This image can be directly used if user needed these package while using the minimal jupyter notebook.
+This custom notebook contains [SciPy](https://www.scipy.org/) related packages install with minimal notebook for Data Science usage. This image can be directly used if user needed these package while using the minimal jupyter notebook.
 
 This repository is created from Graham Dumpleton: [jupyter-on-openshift/jupyter-notebooks](https://github.com/jupyter-on-openshift/jupyter-notebooks).
 
@@ -39,7 +39,7 @@ We have configured this repository to used pipenv and micropipenv python depende
 - jupyter-bokeh
 ```
 
-## Importing the Scipy Notebook
+## Importing the SciPy Notebook
 
 A pre-built version of the scipy notebook based on [Thoth s2i-minimal-notebook](https://github.com/thoth-station/s2i-minimal-notebook), can be found at quay.io:
 
@@ -79,7 +79,7 @@ s2i build . quay.io/thoth-station/s2i-minimal-notebook:latest \
 --env THOTH_ADVISE=1 \
 --env THOTH_DRY_RUN=0 \
 --env THOTH_PROVENANCE_CHECK=1 \
-s2i-minimal-notebook
+s2i-scipy-notebook
 ```
 
 Without [Thoth](https://thoth-station.ninja/) advise
@@ -91,5 +91,5 @@ s2i build . quay.io/thoth-station/s2i-minimal-notebook:latest \
 --env THOTH_ERROR_FALLBACK=1 \
 --env THOTH_DRY_RUN=1 \
 --env THOTH_PROVENANCE_CHECK=0 \
-s2i-minimal-notebook
+s2i-scipy-notebook
 ```
