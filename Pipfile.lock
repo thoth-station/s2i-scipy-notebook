@@ -486,10 +486,10 @@
         },
         "jupyter-bokeh": {
             "hashes": [
-                "sha256:cfa5ef5b69976461b83fac0371fd3a231dacd6332592c405a72b59d4dc6ab3ef"
+                "sha256:d337306021fb6a8e63556dbe2eaf539a8025aa76d9ba512b18189bfb1f708177"
             ],
             "index": "pypi",
-            "version": "==2.0.3"
+            "version": "==2.0.4"
         },
         "jupyter-client": {
             "hashes": [
