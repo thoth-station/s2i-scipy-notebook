@@ -303,11 +303,11 @@
         },
         "distributed": {
             "hashes": [
-                "sha256:2b3a6c9d82dcbe4b8757be2fcb3fbca731a57592e801caf06407a2a76cae2217",
-                "sha256:e9855657b04fcb7b106f0f55487f34973f0cd50ab2cfc7259b397713d62ae19a"
+                "sha256:1421d3b84a0885aeb2c4bdc9e8896729c0f053a9375596c9de8864e055e2ac8e",
+                "sha256:d922f4ea9becd27b823f47f008d11e7eb81ce832eeea14c7965e39aafd92dcc7"
             ],
             "index": "pypi",
-            "version": "==2.25.0"
+            "version": "==2.30.1"
         },
         "docutils": {
             "hashes": [
