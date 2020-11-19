@@ -862,11 +862,11 @@
         },
         "plotly": {
             "hashes": [
-                "sha256:752f0803588b8d895d604c58fa55119ad104f3fbdd5eb5f7d11a3079680c31c0",
-                "sha256:aa1602346ffa17895687fc48ae58611f014ed7a5da4b07e79c2ca99d6d4dca31"
+                "sha256:9ec2c9f4cceac7c595ebb77c98cbeb6566a97bef777508584d9bb7d9bcb8854c",
+                "sha256:c50babbb4f8ad12e2a4f004df5d80c1dbf10c38e9325b5ffb1146b383687ef52"
             ],
             "index": "pypi",
-            "version": "==4.10.0"
+            "version": "==4.12.0"
         },
         "prometheus-client": {
             "hashes": [
