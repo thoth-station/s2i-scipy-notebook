@@ -1,5 +1,12 @@
 # S2I SciPy Notebook
 
+## Deprecated
+
+- **NOTE**: This repo is no longer maintained, we would be using the [s2i-generic-data-science-notebook](https://github.com/thoth-station/s2i-generic-data-science-notebook) repository to provide similar notebook image going further.  
+- Please use the repo [s2i-generic-data-science-notebook](https://github.com/thoth-station/s2i-generic-data-science-notebook) for issues and requests.
+---
+
+
 Custom Notebook built with Thoth s2i-minimal-notebook.
 
 This custom notebook contains [SciPy](https://www.scipy.org/) related packages install with minimal notebook for Data Science usage. This image can be directly used if user needed these package while using the minimal jupyter notebook.
